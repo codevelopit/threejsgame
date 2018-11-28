@@ -1,0 +1,22 @@
+{
+  "name": "threejsgame",
+  "version": "1.0.0",
+  "description": "Simple threejs game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codevelopit/threejsgame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codevelopit/threejsgame/issues"
+  },
+  "homepage": "https://github.com/codevelopit/threejsgame#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
